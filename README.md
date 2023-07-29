@@ -2,6 +2,10 @@
 
 This repository contains code for an ESP32-based sensor data logger that communicates with the Notecard service. The ESP32 is connected to an Adafruit MPU6050 accelerometer and a Notecard module to log sensor data and send it to the cloud using the Notecard API.
 
+**Link of the Source**
+
+https://www.hackster.io/the-esp32-elite/mobile-cloud-storing-sensory-data-using-esp32-4a0023
+
 **Hardware Requirements:**
 
 1. ESP32 development board
